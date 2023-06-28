@@ -12,6 +12,13 @@ spectrum_plot = gw_analysis.plot_spectrum()
 
 
 # Now you can use the plot_spectrum method
+'''
+Aditi: this is where im having trouble. Now that I get the plot directly from observability I'm trying to extract the data so that we can re-plot it 
+and compare it with our digitized constraints. Once we have this raw data we can use your bifurcation code to see if the black line intersects with 
+the constraints. So the next steps that I was thinking of doing are to get the data from the plot (without digitizing from a pdf/image because that 
+incorporates a lot of error) and finding a way to change the variables directly form here, and then add your code to this file to then see which lines 
+with certain values intersect the digitized constraints. 
+'''
 
 xdata, ydata = spectrum_plot()  #in observability, plot_spectrum: i set xdata = frequencies_Hz and ydata = self.h2Omega(self,frequencies_Hz))
 
