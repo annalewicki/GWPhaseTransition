@@ -1,0 +1,10 @@
+alpha                  1.325137489667123         
+alpha_inf              0.02923538319679956       
+alpha_DSnorm           1.4299349077900787        
+beta/H                 315.1184491485142         
+D                      1                         
+g_eff_s_tot_nuc        1104.9822052388417        
+Tnuc_SM_GeV            9.756085535312154         
+g_eff_s_SM_0           3.9309363                 
+eps_turb               0.1                       
+v_wall                 1                         
